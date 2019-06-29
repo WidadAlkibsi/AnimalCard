@@ -1,0 +1,1 @@
+## This project is an Animal Trading Card which describes and states fact of a certain animal (Dog)
